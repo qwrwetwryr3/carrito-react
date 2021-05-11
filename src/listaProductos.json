@@ -1,0 +1,32 @@
+{
+    "listaProductos":[
+        {
+            "titulo":"Audifonos Beats",
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPXO5sqc_5nB4mLFivkWK5GphLpSbzMNTkOx4rQGVFkTr04Yc1e4ED9DtT0b5PAq2dlCNmNI&usqp=CAc" ,
+            "descripcion":"Audifonos Beats Blancos", 
+            "precio":"170.000",
+            "stock": "4"
+        },
+        {
+            "titulo":"Audifonos Beats",
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGkW4JdUQdNrR6dLHK0o0DIDQfL0Gz5dtEzZGILn8-iLZqCHQKVMPoL_p1bxmPH1jWjWacQGI&usqp=CAc" ,
+            "descripcion":"Audifonos Beats Negros", 
+            "precio":"150.000",
+            "stock": "5"
+        },
+        {
+            "titulo":"Pendrive Kingston",
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPNwh0LraTQrWDjMujhY7QaV5q1v5fvUlg4ZRk2FnibQBXefttdaQGOqkdw&usqp=CAc" ,
+            "descripcion":"Pendrive Kingston 32GB", 
+            "precio":"6.000",
+            "stock": "6"
+        },
+        {
+            "titulo":"Pendrive HP",
+            "imagen":"data:image/jpeg;base64,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" ,
+            "descripcion":"Pendrive HP 16GB", 
+            "precio":"6.000",
+            "stock": "7"
+        }
+    ]
+}
