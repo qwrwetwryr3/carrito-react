@@ -1,3 +1,6 @@
+Ejemplo de sitio de compras hecho con React.
+El resultado final se puede ver [aqui](https://qwrwetwryr3.github.io/carrito-react/ "aqui").
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
